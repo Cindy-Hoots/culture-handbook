@@ -11,11 +11,26 @@
 
 ## What are our values?
 
-### Transparency
-We’re building a team of smart, passionate people who are empowered to inform our roadmap and set their priorities. We believe the best way to make sure we’re all moving toward the same goals is to foster conversations around where we’re going, how we plan to get there, and how we’re tracking against those efforts. It’s also about making sure people have access to the information and people they need to get their job done and that if something is up, we owe it to each other to voice it quickly. 
+### Netlivate
+Simple Solutions to Complex Problems for Our Customers and Partners
+We look to make things simpler vs. complicated when it comes to planning, engaging, and delivering results with our customers and partners.
 
-### Empowerment 
-We believe the best idea can come from anywhere and people do their best work when they feel supported and understood. So, we find ways to make sure everyone knows their value, feels ownership over their work, can weigh in on topics they care about, and can quickly see the impact of their efforts. Beyond just hiring smart, empathetic people, we also foster a culture where there are no dumb questions and people get access to the resources they need to continue learning. 
+### Weigh In, Then Buy In
+The Best Idea Can Come from Anywhere - Be Curious, Be Open, Mine for Healthy Conflict, and Commit Once a Decision is Made
+Curious and open-minded vs. pushing an agenda. Ask tough questions yet are willing to be asked and answer similar questions. We are data-driven, and we commit to moving forward as a team.
         
-### Commitment
-We’re a small-but-mighty team pushing a radical idea: the future of the web depends on a healthier ecosystem of tools and methodologies. So, we approach every line of code, support ticket, meet-up talk, sales call, and piece of documentation with a high bar for quality. We’re driven by passion and a firm commitment to do right by our team and our community. And since high performers can need reminders to put themselves first, our commitment to the team means encouraging everyone to take the time and space to refresh, recover, and maintain a healthy relationship with their work. 
+### Own It, Ship It
+Take Initiative, Be Accountable, Be Resourceful, Bias Toward Shipping and Iterating, Admit Mistakes, Don't Quit, Impact Over Output
+We seize the opportunity in front of us. We take chances as we are creating a new market. We take ownership and responsibility of our work vs. blame or deflect to others. We admit mistakes, ask for help, apologize, and be open and honest when we don't know something. We don't quit and are relentlessly resourceful. We choose impact and prioritize success.
+
+### Care Deeply, and Have Fun
+Passionate About Impact, Resilient, Inspired by Challenges and Problems to Solve, We Are Entrepreneurs at Heart, We Lead with Kindness and Humor
+We are passionate about the work we do and the impact we have. We are also passionate about our customers and partners both internal and external to Netlify. We understand there are bad moments, not bad days. We contribute with levity and fun and lift the spirits of others around us.
+
+### Diversity = Intelligence
+Emotionally Intelligent, Inclusive, Building a Better, Kinder, and Smarter World
+We foster and build an inclusive and diverse culture, which makes us stronger and smarter. Diversity will allow us to deliver the best product and services to our developers, customers, and partners globally. We continually strive to be more emotionally intelligent. We will hire as an organization consistently improving the diversity of our teams to be representative of the world.
+
+### Diversity = Intelligence
+Emotionally Intelligent, Inclusive, Building a Better, Kinder, and Smarter World
+We foster and build an inclusive and diverse culture, which makes us stronger and smarter. Diversity will allow us to deliver the best product and services to our developers, customers, and partners globally. We continually strive to be more emotionally intelligent. We will hire as an organization consistently improving the diversity of our teams to be representative of the world.
